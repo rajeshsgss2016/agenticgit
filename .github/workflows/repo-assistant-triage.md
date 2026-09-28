@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
 
 checkout: false
+engine:
+  id: copilot
+  model: gpt-4.1
 
 permissions:
   contents: read
