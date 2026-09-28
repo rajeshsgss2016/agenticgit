@@ -19,6 +19,7 @@ permissions:
   contents: read
   issues: read
   pull-requests: read
+  copilot-requests: write
 
 # Tools - GitHub API access via toolsets (context, repos, issues, pull_requests)
 # tools:
