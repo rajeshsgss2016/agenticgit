@@ -2,6 +2,8 @@
 on:
   workflow_dispatch:
 
+checkout: false
+
 permissions:
   contents: read
   issues: read
